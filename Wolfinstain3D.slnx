@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Wolfinstain3D/Wolfinstain3D.vcxproj" Id="a10b6411-c50e-4dd0-9c5e-db2d2ca7d36f" />
+</Solution>
